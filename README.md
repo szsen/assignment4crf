@@ -10,7 +10,7 @@ $ ./install.sh
 $ ./run.sh
 ```
 
-1. The install.sh script installs CRFSuite created by Naoaki Okazaki and the ark-tweet nlp POS tagger.
+1. The install.sh script installs CRFSuite created by Naoaki Okazaki and the ark-tweet NLP POS tagger.
 
 2. The run.sh script the runs the POS tagger on the training and unlabeled data, cleans the data for processing and then calls the evalit.sh script
 
