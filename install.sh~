@@ -1,0 +1,2 @@
+wget https://github.com/downloads/chokkan/crfsuite/crfsuite-0.12-x86_64.tar.gz
+tar xvfz crfsuite-0.12-x86_64.tar.gz
