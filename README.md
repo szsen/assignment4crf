@@ -1,9 +1,12 @@
 This is the CRFSuite implementation of Jeehyun Kim, Sonia Sen, Joanna Zhang team for Natural Language Processing Assignment 4.
 
 To run:
-$ chmod +x install.sh
+$ chmod +x install.sh 
+
 $ chmod +x evalit.sh
+
 $ chmod +x run.sh
+
 
 $ ./install.sh
 $ ./run.sh
